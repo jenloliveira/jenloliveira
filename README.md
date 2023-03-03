@@ -22,6 +22,9 @@ Sou graduada em Analise & Desenvolvimento de sistemas e atualmente curso uma esp
 		<td>
 			<img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 		</td>
+<td>
+			<img align="center" alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+		</td>
 	</tr>
 </table>
 
